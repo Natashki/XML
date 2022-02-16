@@ -1,0 +1,6 @@
+<bug_report>
+  <id>1</id>
+  <title>Don't work</title>
+  <environment>ver. 3.0, xioaimi mi note 10 lite, android 11</environment>
+  <descriprion>Steps: 1. Open application. 2. Touch button. Actuali result: button not active. Expected result: open magic tool.</description>
+</bug_report>
